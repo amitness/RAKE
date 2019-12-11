@@ -1,1 +1,1 @@
-include data/stoplists/*
+include nlp_rake/data/stoplists/*
