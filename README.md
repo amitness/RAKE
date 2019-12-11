@@ -9,7 +9,7 @@ The source code is released under the MIT License.
 
 To install rake as a package, run:
 
-`python setup.py install`
+`pip install git+https://github.com/amitness/RAKE`
 
 ## Example use
 
